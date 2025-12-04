@@ -1,1 +1,4 @@
+# Forçar GitHub Linguist a considerar arquivos do Angular como TypeScript
 Frontend/**/*.ts linguist-language=TypeScript
+Frontend/**/*.html linguist-language=HTML
+Frontend/**/*.css linguist-language=CSS
